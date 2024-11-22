@@ -1,5 +1,6 @@
-﻿Hi ! My name : Huy 
-StudentId : 22810310268
+﻿Hi ! My Group have 2 people : Huy - Minh 
+StudentId : 22810310268 - 22810310235
+Project : QuanLyKhoHang
 Major : Information of Technology - Software Engineering
 
 ![doiMKmoi](https://github.com/user-attachments/assets/d3ccca49-f23e-4be1-a044-c395de1518e5)
